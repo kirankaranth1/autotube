@@ -1,0 +1,7 @@
+BingImageCreator==0.5.0
+moviepy==1.0.3
+nltk==3.8.1
+openai
+Pillow==9.5.0
+pynter==0.1.6
+requests==2.31.0

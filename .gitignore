@@ -1,0 +1,13 @@
+.idea/
+venv/
+.DS_Store
+*.jpeg
+*.mp4
+*.mp3
+www.bing.com_cookies.json
+www.bing.com_cookies.txt
+*.json
+generated_audio/
+generated_images/
+generated_video/
+eleven_labs.txt
